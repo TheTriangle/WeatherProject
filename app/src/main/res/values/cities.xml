@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Kabul	Afghanistan</item>
+        <item>Tirana (Tirane)	Albania</item>
+        <item>Algiers	Algeria</item>
+        <item>Andorra la Vella	Andorra</item>
+        <item>Luanda	Angola</item>
+        <item>Saint Johns	Antigua and Barbuda</item>
+        <item>Buenos Aires	Argentina</item>
+        <item>Yerevan	Armenia</item>
+        <item>Canberra	Australia</item>
+        <item>Vienna	Austria</item>
+        <item>Baku	Azerbaijan</item>
+        <item>Nassau	Bahamas</item>
+        <item>Manama	Bahrain</item>
+        <item>Dhaka	Bangladesh</item>
+        <item>Bridgetown	Barbados</item>
+        <item>Minsk	Belarus</item>
+        <item>Brussels	Belgium</item>
+        <item>Belmopan	Belize</item>
+        <item>Porto Novo	Benin</item>
+        <item>Thimphu	Bhutan</item>
+        <item>Sucre Bolivia</item>
+        <item>Sarajevo	Bosnia and Herzegovina</item>
+        <item>Gaborone	Botswana</item>
+        <item>Brasilia	Brazil</item>
+        <item>Bandar Seri Begawan	Brunei</item>
+        <item>Sofia	Bulgaria</item>
+        <item>Ouagadougou	Burkina Faso</item>
+        <item>Gitega	Burundi</item>
+        <item>Phnom Penh	Cambodia</item>
+        <item>Yaounde	Cameroon</item>
+        <item>Ottawa	Canada</item>
+        <item>Praia	Cape Verde</item>
+        <item>Bangui	Central African Republic</item>
+        <item>NDjamena	Chad</item>
+        <item>Santiago	Chile</item>
+        <item>Beijing	China</item>
+        <item>Bogota	Colombia</item>
+        <item>Moroni	Comoros</item>
+        <item>Kinshasa	Congo, Democratic Republic of the</item>
+        <item>Brazzaville	Congo, Republic of the</item>
+        <item>San Jose	Costa Rica</item>
+        <item>Yamoussoukro	Côte dIvoire (Ivory Coast)</item>
+        <item>Zagreb	Croatia</item>
+        <item>Havana	Cuba</item>
+        <item>Nicosia	Cyprus</item>
+        <item>Prague	Czech Republic (Czechia)</item>
+        <item>Copenhagen	Denmark</item>
+        <item>Djibouti	Djibouti</item>
+        <item>Roseau	Dominica</item>
+        <item>Santo Domingo	Dominican Republic</item>
+        <item>Dili	East Timor</item>
+        <item>Quito	Ecuador</item>
+        <item>Cairo	Egypt</item>
+        <item>San Salvador	El Salvador</item>
+        <item>London	England</item>
+        <item>Malabo	Equatorial Guinea</item>
+        <item>Asmara	Eritrea</item>
+        <item>Tallinn	Estonia</item>
+        <item>Mbabana	Eswatini (Swaziland)</item>
+        <item>Addis Ababa	Ethiopia</item>
+        <item>Palikir	Federated States of Micronesia</item>
+        <item>Suva	Fiji</item>
+        <item>Helsinki	Finland</item>
+        <item>Paris	France</item>
+        <item>Libreville	Gabon</item>
+        <item>Banjul	Gambia</item>
+        <item>Tbilisi	Georgia</item>
+        <item>Berlin	Germany</item>
+        <item>Accra	Ghana</item>
+        <item>Athens	Greece</item>
+        <item>Saint Georges	Grenada</item>
+        <item>Guatemala City	Guatemala</item>
+        <item>Conakry	Guinea</item>
+        <item>Bissau	Guinea-Bissau</item>
+        <item>Georgetown	Guyana</item>
+        <item>Port au Prince	Haiti</item>
+        <item>Tegucigalpa	Honduras</item>
+        <item>Budapest	Hungary</item>
+        <item>Reykjavik	Iceland</item>
+        <item>New Delhi	India</item>
+        <item>Jakarta	Indonesia</item>
+        <item>Tehran	Iran</item>
+        <item>Baghdad	Iraq</item>
+        <item>Dublin	Ireland</item>
+        <item>Jerusalem	Israel</item>
+        <item>Rome	Italy</item>
+        <item>Kingston	Jamaica</item>
+        <item>Tokyo	Japan</item>
+        <item>Amman	Jordan</item>
+        <item>Nur-Sultan	Kazakhstan</item>
+        <item>Nairobi	Kenya</item>
+        <item>Tarawa Atoll	Kiribati</item>
+        <item>Pristina	Kosovo</item>
+        <item>Kuwait City	Kuwait</item>
+        <item>Bishkek	Kyrgyzstan</item>
+        <item>Vientiane	Laos</item>
+        <item>Riga	Latvia</item>
+        <item>Beirut	Lebanon</item>
+        <item>Maseru	Lesotho</item>
+        <item>Monrovia	Liberia</item>
+        <item>Tripoli	Libya</item>
+        <item>Vaduz	Liechtenstein</item>
+        <item>Vilnius	Lithuania</item>
+        <item>Luxembourg	Luxembourg</item>
+        <item>Antananarivo	Madagascar</item>
+        <item>Lilongwe	Malawi</item>
+        <item>Kuala Lumpur	Malaysia</item>
+        <item>Male	Maldives</item>
+        <item>Bamako	Mali</item>
+        <item>Valletta	Malta</item>
+        <item>Majuro	Marshall Islands</item>
+        <item>Nouakchott	Mauritania</item>
+        <item>Port Louis	Mauritius</item>
+        <item>Mexico City	Mexico</item>
+        <item>Chisinau	Moldova</item>
+        <item>Monaco	Monaco</item>
+        <item>Ulaanbaatar	Mongolia</item>
+        <item>Podgorica	Montenegro</item>
+        <item>Rabat	Morocco</item>
+        <item>Maputo	Mozambique</item>
+        <item>Nay Pyi Taw	Myanmar (Burma)</item>
+        <item>Windhoek	Namibia</item>
+        <item>Nauru</item>
+        <item>Kathmandu	Nepal</item>
+        <item>Amsterdam	Netherlands</item>
+        <item>Wellington	New Zealand</item>
+        <item>Managua	Nicaragua</item>
+        <item>Niamey	Niger</item>
+        <item>Abuja	Nigeria</item>
+        <item>Pyongyang	North Korea</item>
+        <item>Skopje	North Macedonia (Macedonia)</item>
+        <item>Belfast	Northern Ireland</item>
+        <item>Oslo	Norway</item>
+        <item>Muscat	Oman</item>
+        <item>Islamabad	Pakistan</item>
+        <item>Melekeok	Palau</item>
+        <item>Panama City	Panama</item>
+        <item>Port Moresby	Papua New Guinea</item>
+        <item>Asuncion	Paraguay</item>
+        <item>Lima	Peru</item>
+        <item>Manila	Philippines</item>
+        <item>Warsaw	Poland</item>
+        <item>Lisbon	Portugal</item>
+        <item>Doha	Qatar</item>
+        <item>Bucharest	Romania</item>
+        <item>Moscow	Russia</item>
+        <item>Kigali	Rwanda</item>
+        <item>Basseterre	Saint Kitts and Nevis</item>
+        <item>Castries	Saint Lucia</item>
+        <item>Kingstown	Saint Vincent and the Grenadines</item>
+        <item>Apia	Samoa</item>
+        <item>San Marino	San Marino</item>
+        <item>Sao Tome	Sao Tome and Principe</item>
+        <item>Riyadh	Saudi Arabia</item>
+        <item>Edinburgh	Scotland</item>
+        <item>Dakar	Senegal</item>
+        <item>Belgrade	Serbia</item>
+        <item>Victoria	Seychelles</item>
+        <item>Freetown	Sierra Leone</item>
+        <item>Singapore	Singapore</item>
+        <item>Bratislava	Slovakia</item>
+        <item>Ljubljana	Slovenia</item>
+        <item>Honiara	Solomon Islands</item>
+        <item>Mogadishu	Somalia</item>
+        <item>Pretoria, Bloemfontein, Cape Town	South Africa</item>
+        <item>Seoul	South Korea</item>
+        <item>Juba	South Sudan</item>
+        <item>Madrid	Spain</item>
+        <item>Sri Jayawardenapura Kotte	Sri Lanka</item>
+        <item>Khartoum	Sudan</item>
+        <item>Paramaribo	Suriname</item>
+        <item>Stockholm	Sweden</item>
+        <item>Bern	Switzerland</item>
+        <item>Damascus	Syria</item>
+        <item>Taipei	Taiwan</item>
+        <item>Dushanbe	Tajikistan</item>
+        <item>Dodoma	Tanzania</item>
+        <item>Bangkok	Thailand</item>
+        <item>Lome	Togo</item>
+        <item>Nukualofa	Tonga</item>
+        <item>Port of Spain	Trinidad and Tobago</item>
+        <item>Tunis	Tunisia</item>
+        <item>Ankara	Turkey</item>
+        <item>Ashgabat	Turkmenistan</item>
+        <item>Funafuti	Tuvalu</item>
+        <item>Kampala	Uganda</item>
+        <item>Kyiv or Kiev	Ukraine</item>
+        <item>Abu Dhabi	United Arab Emirates</item>
+        <item>London	United Kingdom</item>
+        <item>Washington D.C.	United States</item>
+        <item>Montevideo	Uruguay</item>
+        <item>Tashkent	Uzbekistan</item>
+        <item>Port Vila	Vanuatu</item>
+        <item>Vatican City	Vatican City</item>
+        <item>Caracas	Venezuela</item>
+        <item>Hanoi	Vietnam</item>
+        <item>Cardiff	Wales</item>
+        <item>Sanaa	Yemen</item>
+        <item>Lusaka	Zambia</item>
+        <item>Harare	Zimbabwe</item>
+    </string-array>
+</resources>

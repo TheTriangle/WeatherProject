@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeatherProject</string>
+    <string name="title_activity_weather_display">View Weather</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="language">English</string>
+    <string name="cityselecthint">Select your city</string>
+    <string name="weatherin">Weather in</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="ind">In</string>
+    <string name="days">Days</string>
+    <string name="darktheme">Dark theme</string>
+    <string name="lighttheme">Light theme</string>
+</resources>

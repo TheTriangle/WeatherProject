@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Приложение погоды</string>
+    <string name="title_activity_weather_display">Просмотр погоды</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Фрагмент 1</string>
+    <string name="second_fragment_label">Фрагмент 2</string>
+    <string name="next">Дальше</string>
+    <string name="previous">Назад</string>
+    <string name="language">Русский</string>
+    <string name="cityselecthint">Выберите ваш город</string>
+    <string name="weatherin">Погода: </string>
+    <string name="wind">Ветер</string>
+    <string name="humidity">Влажность</string>
+    <string name="pressure">Давление</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="ind">Через</string>
+    <string name="days">дн.</string>
+    <string name="darktheme">Тёмная тема</string>
+    <string name="lighttheme">Светлая тема</string>
+</resources>
